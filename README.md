@@ -4,6 +4,12 @@ Software to identify the different types of hashes used to encrypt data and espe
 
 Encryption formats supported:
 
+Command:
+
+git clone https://github.com/Zellix67/Hash-Identifier/
+cd Hash-Identifier
+Python3 Hash-Identifier
+
 * ADLER-32
 * CRC-32
 * CRC-32B
